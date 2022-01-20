@@ -1,0 +1,12 @@
+{
+  "name": "curso-typescript",
+  "version": "1.0.0",
+  "description": "Repo of my typescript courses",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.2"
+  }
+}
